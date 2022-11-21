@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: Consoles 
-image_url: hqdefault(1).jpg
+image_url: Pippin-Atmark-Console-Set-big.jpg
 caption: Διαφάνειες για το κεφάλαιο Consoles
 slides:
   - apple
